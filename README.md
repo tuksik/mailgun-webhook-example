@@ -4,7 +4,9 @@ This app build using flask microframework. Incoming mail will be stored on file 
 
 before running the example, install flask:
 > pip install flask
+
 run webapp
 > python main.py
+
 watch for incoming mail 
 > tail -f inbox.txt
